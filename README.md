@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Karimchmtz
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Java and MySQL
-- 💞️ I’m looking to collaborate on WEB3 projects
 - 📫 kchemaytilly@gmail.com
 
 <!---
