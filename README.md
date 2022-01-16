@@ -1,5 +1,7 @@
+- 📚 Computer Science/Engineering Student
+- 📍 Paris, France 
+- 💻 Deeply Passionnate About Software Engineering/Craftsmanship
 - 📫 kchemaytilly@gmail.com
-
 <!---
 Karimchmtz/Karimchmtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
