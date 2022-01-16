@@ -1,8 +1,8 @@
-# Welcome to My GitHub
+# 👋 Welcome to My GitHub
 - 📚 Computer Science/Engineering Student
 - 📍 Paris, France 
 - 💻 Deeply Passionnate About Software Engineering/Craftsmanship
-- 🛠️ Aspiring Backend Engineer
+- 🛠️ Aspiring Backend/DevOps Engineer
 - 👨‍💻 Current Stack of Technologies: Git, Pyhton, PostgreSQL, Html, CSS, C#, C++, C, Java, Javascript(node.js), Assembly(x86)
 - 📫 kchemaytilly@gmail.com
 <!---
