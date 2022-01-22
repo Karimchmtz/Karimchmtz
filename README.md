@@ -4,7 +4,8 @@
 - 💻 Deeply Passionnate About Software Engineering/Craftsmanship
 - 🔐 Also Interested In Ethical Hacking & 🖋️Pen-Testing
 - 🛠️ Aspiring Backend/DevOps Engineer
-- 👨‍💻 Current Stack of Technologies: `Git, Pyhton, PostgreSQL, Html, CSS, C#, C++, C, Java, Javascript(node.js), Assembly(x86)`
+- 👨‍💻 Current Stack of Technologies: 
+`Git, Pyhton, PostgreSQL, Html, CSS, C#, C++, C, Java, Javascript(node.js), Assembly(x86)`
 - 📫 kchemaytilly@gmail.com
 - 💠 [LinkedIn](https://www.linkedin.com/in/karim-chemaytilly-490a3a20b/)
 <!---
