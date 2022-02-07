@@ -2,7 +2,6 @@
 - 📚 Computer Science/Engineering Student
 - 📍 Paris, France 
 - 💻 Deeply Passionnate About Software Engineering/Craftsmanship
-- 🔐 Also Interested In Ethical Hacking & 🖋️Pen-Testing
 - 🛠️ Aspiring Backend Engineer
 - 👨‍💻 Current Stack of Technologies: 
 `Git, Pyhton, PostgreSQL, Html, CSS, C#, C++, C, Java, Javascript(node.js), Assembly(x86)`
