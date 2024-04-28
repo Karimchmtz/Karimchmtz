@@ -1,4 +1,4 @@
-- 📍 Paris, France 
+- 📍 Switzerland
 - 🛠️ Software Engineer
 - 📫 kchemaytilly@gmail.com
 - 💠 [LinkedIn](https://www.linkedin.com/in/karimchem/)
